@@ -117,4 +117,8 @@ Esses projetos são apenas o começo de uma jornada contínua para expandir minh
 [Meu LinkedIn](https://www.linkedin.com/in/vifernandescybersec/)
 
 
+## Contribua!
+
+Estou sempre aberto a sugestões e colaborações. Se você tem interesse em contribuir com esses projetos, seja corrigindo erros, propondo melhorias ou expandindo as funcionalidades, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*. Sua contribuição é muito bem-vinda!
+
 💬 Feedbacks e sugestões são sempre bem-vindos!
