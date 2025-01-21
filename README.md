@@ -29,7 +29,7 @@ Este projeto automatiza o cadastro de produtos em um sistema utilizando Python e
 - Preenchimento automático de campos no sistema até a conclusão do cadastro.
 
 ### Benefícios
-- **70% de economia no tempo médio de cadastro**, permitindo maior produtividade.
+- **Grande economia no tempo médio de cadastro**, permitindo maior produtividade.
 - **Redução de inconsistências**, garantindo precisão nos registros.
 - **Escalabilidade para grandes volumes de dados**, com capacidade para processar centenas de itens sem intervenção manual.
 
@@ -44,7 +44,8 @@ Confira a [documentação completa do Projeto 1](#).
 ## Projeto 2: Análise de Dados com Python - Cancelamentos de Clientes
 
 ### Descrição do Projeto
-Este projeto utiliza Python para analisar dados de cancelamento de clientes, identificando padrões e causas que impactam diretamente na retenção. Ferramentas de visualização foram empregadas para comunicar insights de forma clara.
+Este projeto utiliza Python para analisar dados de cancelamento de clientes, identificando padrões e causas que impactam diretamente na retenção. 
+Ferramentas de visualização foram empregadas para comunicar insights de forma clara.
 
 ### Principais Etapas
 1. Importação e limpeza da base de dados, garantindo consistência.
@@ -72,7 +73,8 @@ Confira a [documentação completa do Projeto 2](#).
 ## Projeto 3: Modelo de Machine Learning para Previsão de Score de Crédito
 
 ### Descrição do Projeto
-Neste projeto, desenvolvi um modelo de machine learning para prever scores de crédito com base em dados históricos. Foram utilizados os algoritmos `RandomForestClassifier` e `KNeighborsClassifier` para comparar resultados e identificar o mais eficaz.
+Neste projeto, desenvolvi um modelo de machine learning para prever scores de crédito com base em dados históricos. 
+Foram utilizados os algoritmos `RandomForestClassifier` e `KNeighborsClassifier` para comparar resultados e identificar o mais eficaz.
 
 ### Principais Etapas
 1. Importação e preparação da base de dados, com transformação de variáveis categóricas.
@@ -99,8 +101,9 @@ Confira a [documentação completa do Projeto 3](#).
 
 ## Conclusão e Próximos Passos
 
-Essa experiência reforçou minha capacidade de usar Python para enfrentar desafios complexos, aprimorando habilidades essenciais em automação, análise de dados e inteligência Artificial(Machine Learning). 
-Esses projetos são apenas o começo de uma jornada contínua para expandir minhas competências e contribuir para soluções tecnológicas inovadoras.
+Essa experiência reforçou minha capacidade de usar Python para enfrentar desafios complexos, aprimorando habilidades essenciais em automação, análise de dados e inteligência Artificial(Machine Learning), demonstrando como tecnologias podem resolver problemas complexos de forma eficiente e inovadora.
+Esses projetos são apenas o começo de uma jornada contínua para expandir minhas competências e contribuir para soluções tecnológicas inovadoras. 
+
 
 ### Próximos Passos
 - Explorar bibliotecas avançadas para expandir conhecimentos em Python, como TensorFlow e PyTorch.
@@ -109,6 +112,9 @@ Esses projetos são apenas o começo de uma jornada contínua para expandir minh
 
 ---
 
-🛠️ Explore os códigos e contribua: [Meu GitHub](https://github.com/Vifernandestech)
+🛠️ Explore os códigos e contribua: 
+[Meu GitHub](https://github.com/Vifernandestech)
+[Meu LinkedIn](https://www.linkedin.com/in/vifernandescybersec/)
+
 
 💬 Feedbacks e sugestões são sempre bem-vindos!
