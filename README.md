@@ -8,7 +8,7 @@ Bem-vindo ao repositório que documenta minha jornada em Python pela Hashtag Tre
 
 Esta jornada teve como objetivo explorar conceitos fundamentais e avançados de Python, aplicando-os em situações práticas. 
 Desde a automação de processos repetitivos até a construção de modelos preditivos, cada projeto proporcionou aprendizados significativos e aplicáveis no mundo real.
-Durante esta jornada, explorei desde conceitos fundamentais até aplicações avançadas de Python, sempre com foco em resolver problemas reais e desenvolver habilidades práticas em automação, análise de dados e machine learning.
+Projetos focados em automação, análise de dados e machine learning.
 
 **Principais aprendizados e realizações:**
 - Desenvolvimento de habilidades práticas em automação com Python, reduzindo significativamente erros e aumentando a eficiência.
