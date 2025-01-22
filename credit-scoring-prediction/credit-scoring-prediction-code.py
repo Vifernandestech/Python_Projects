@@ -169,4 +169,4 @@ display(nova_previsao)
 # A variável "nova_previsao" é a previsão do score de crédito dos novos clientes.
 # Exibir a previsão do score de crédito dos novos clientes.
 
-eSTE É O TERCEIRO PROJETO (AINDA SEM A DOCUMENTAÇÃO - ESTE É O CÓDIGO COMENTADO)
+
