@@ -58,11 +58,12 @@ O objetivo deste projeto é explorar um conjunto de dados de clientes de uma emp
 
 1. **Clone este repositório:**
     ```bash
-    git clone <URL do seu repositório>
+    git clone <https://github.com/Vifernandestech/Python_Projects>
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <pasta do projeto>/customer-churn-analysis
+    cd <Python_Projects>/customer-churn-analysis/README (Para acesso ao README)
+    cd <Python_Projects>/customer-churn-analysis/customer-churn-analysis-code.py (Para acesso ao código)
     ```
 3. **Instale as dependências (caso ainda não estejam instaladas):**
     ```bash
