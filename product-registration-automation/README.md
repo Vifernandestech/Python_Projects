@@ -44,7 +44,8 @@ O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <Python_Projects>/product-registration-automation/README (Para README)
+    cd <Python_Projects>/product-registration-automation
+    python product-registration-automation.py
     cd <Python_Projects>/product-registration-automation/product-registration-automation-code (Para código)
     ```
 3. **Instale as dependências:**
