@@ -62,7 +62,11 @@ O objetivo deste projeto é explorar um conjunto de dados de clientes de uma emp
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <Python_Projects>/customer-churn-analysis/README (Para acesso ao README)
+    cd <Python_Projects>/customer-churn-analysis
+    # Para executar o script Python:
+    python customer-churn-analysis-code.py
+    # Para executar o notebook Jupyter (se aplicável):
+    jupyter notebook customer-churn-analysis-code.ipynb
     cd <Python_Projects>/customer-churn-analysis/customer-churn-analysis-code.py (Para acesso ao código)
     ```
 3. **Instale as dependências (caso ainda não estejam instaladas):**
