@@ -45,7 +45,7 @@ O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros
 2. **Navegue até a pasta do projeto:**
     ```bash
     cd <Python_Projects>/product-registration-automation/README (Para README)
-    cd <Python_Projects>/product-registration-automation (Para código)
+    cd <Python_Projects>/product-registration-automation/product-registration-automation-code (Para código)
     ```
 3. **Instale as dependências:**
     ```bash
@@ -68,7 +68,7 @@ Este script é uma ferramenta auxiliar para obter as coordenadas (x, y) do mouse
 1. Execute o script: `python pegar_posição.py`
 2. Posicione o mouse sobre o elemento desejado na tela (por exemplo, um campo de texto).
 3. Anote as coordenadas exibidas no terminal.
-4. Atualize as coordenadas no script principal (`product-registration-automation.py`).
+4. Atualize as coordenadas no script principal (`product-registration-automation-code.py`).
 
 ## Considerações Importantes
 
