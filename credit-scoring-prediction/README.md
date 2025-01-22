@@ -50,11 +50,12 @@ O objetivo deste projeto é construir um modelo preditivo capaz de estimar o sco
 
 1. **Clone este repositório:**
     ```bash
-    git clone <URL do seu repositório>
+    git clone <https://github.com/Vifernandestech/Python_Projects>
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <pasta do projeto>/credit-scoring-prediction
+    cd <Python_Projects>/credit-scoring-prediction/README (Para acesso ao README)
+    cd <Python_Projects>/credit-scoring-prediction/credit-scoring-prediction-code.py (Para acesso ao código Python)
     ```
 3. **Instale as dependências:**
     ```bash
@@ -62,7 +63,7 @@ O objetivo deste projeto é construir um modelo preditivo capaz de estimar o sco
     ```
 4. **Execute o script:**
     ```bash
-    python credit_scoring_prediction.py
+    python credit_scoring_prediction-code.py
     ```
 
 ## Considerações
