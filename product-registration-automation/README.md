@@ -24,7 +24,7 @@ O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros
 
 ## Tecnologias Utilizadas
 
-*   Python
+*   Python.
 *   `pandas`: Para manipulação de dados (leitura do CSV).
 *   `pyautogui`: Para automação da interface gráfica do usuário.
 *   `time`: Para adicionar pausas entre as ações.
