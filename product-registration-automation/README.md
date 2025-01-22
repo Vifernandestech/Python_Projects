@@ -40,22 +40,23 @@ O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros
 
 1. **Clone este repositório:**
     ```bash
-    git clone <URL do seu repositório>
+    git clone <https://github.com/Vifernandestech/Python_Projects>
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <pasta do projeto>/product-registration-automation
+    cd <Python_Projects>/product-registration-automation/README (Para README)
+    cd <Python_Projects>/product-registration-automation (Para código)
     ```
 3. **Instale as dependências:**
     ```bash
     pip install pandas pyautogui
     ```
 4. **Configure o script:**
-    *   Modifique a URL do sistema no script `product-registration-automation.py` ou `automated-product-cadastro.py`, se necessário.
+    *   Modifique a URL do sistema dentro do script `product-registration-automation-code.py`, se necessário.
     *   Ajuste as coordenadas dos cliques e campos de texto no script, utilizando o script auxiliar `pegar_posição.py` para obter as posições corretas do mouse na sua tela.
 5. **Execute o script:**
     ```bash
-    python product-registration-automation.py ou python automated-product-cadastro.py
+    python product-registration-automation-code.py 
     ```
 
 ## Script Auxiliar: `pegar_posição.py`
@@ -87,4 +88,3 @@ Este script é uma ferramenta auxiliar para obter as coordenadas (x, y) do mouse
 
 Contribuições são bem-vindas! Se você encontrar algum erro ou tiver sugestões de melhorias, por favor, abra uma *issue* ou envie um *pull request*.
 
----
