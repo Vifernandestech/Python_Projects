@@ -63,10 +63,10 @@ Ferramentas de visualização foram empregadas para comunicar insights de forma 
 - **Melhoria na retenção de clientes**, com foco em fatores críticos como duração do contrato e atendimento ao cliente.
 
 ### Código Completo
-[Clique aqui para acessar o código](#https://github.com/Vifernandestech/Python_Projects/blob/main/customer-churn-analysis/customer-churn-analysis-code.py)
+[Clique aqui para acessar o código](https://github.com/Vifernandestech/Python_Projects/blob/main/customer-churn-analysis/customer-churn-analysis-code.py)
 
 ### Documentação e Insights
-Confira a [documentação completa do Projeto 2](#https://github.com/Vifernandestech/Python_Projects/blob/main/customer-churn-analysis/README.md).
+Confira a [documentação completa do Projeto 2](https://github.com/Vifernandestech/Python_Projects/blob/main/customer-churn-analysis/README.md).
 
 ---
 
@@ -92,10 +92,10 @@ Foram utilizados os algoritmos `RandomForestClassifier` e `KNeighborsClassifier`
 - **Escalabilidade**, permitindo o processamento de grandes volumes de dados.
 
 ### Código Completo
-[Clique aqui para acessar o código](#https://github.com/Vifernandestech/Python_Projects/blob/main/credit-scoring-prediction/credit-scoring-prediction-code.py)
+[Clique aqui para acessar o código](https://github.com/Vifernandestech/Python_Projects/blob/main/credit-scoring-prediction/credit-scoring-prediction-code.py)
 
 ### Documentação e Insights
-Confira a [documentação completa do Projeto 3](#https://github.com/Vifernandestech/Python_Projects/blob/main/credit-scoring-prediction/README.md).
+Confira a [documentação completa do Projeto 3](https://github.com/Vifernandestech/Python_Projects/blob/main/credit-scoring-prediction/README.md).
 
 ---
 
