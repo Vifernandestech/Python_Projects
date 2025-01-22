@@ -34,10 +34,10 @@ Este projeto automatiza o cadastro de produtos em um sistema utilizando Python e
 - **Escalabilidade para grandes volumes de dados**, com capacidade para processar centenas de itens sem intervenção manual.
 
 ### Código Completo
-[Clique aqui para acessar o código](#)
+[Clique aqui para acessar o código](#product-registration-automation/product-registration-automation-code.py)
 
 ### Documentação e Insights
-Confira a [documentação completa do Projeto 1](#).
+Confira a [documentação completa do Projeto 1](#https://github.com/Vifernandestech/Python_Projects/blob/main/product-registration-automation/README.md).
 
 ---
 
