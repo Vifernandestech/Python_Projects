@@ -4,7 +4,7 @@ Este projeto automatiza o processo de cadastro de produtos em um sistema web, ut
 
 ## Descrição
 
-O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros: o cadastro manual de produtos em um sistema. Ao utilizar a biblioteca `pyautogui`, o script simula as ações de um usuário, como abrir o navegador, navegar até a página de cadastro, preencher os campos do formulário e clicar em botões. Os dados dos produtos são lidos de um arquivo CSV usando a biblioteca `pandas`.
+O objetivo deste projeto é automatizar uma tarefa repetitiva e propensa a erros: o cadastro manual de produtos em um sistema. Ao utilizar a biblioteca pyautogui, o script simula as ações de um usuário, como abrir o navegador, navegar até a página de cadastro, preencher os campos do formulário, movimentar o mouse e simular o teclado, e clicar em botões. Os dados dos produtos são lidos de um arquivo CSV usando a biblioteca `pandas`.
 
 ## Funcionalidades
 
