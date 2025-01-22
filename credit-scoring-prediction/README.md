@@ -54,7 +54,8 @@ O objetivo deste projeto é construir um modelo preditivo capaz de estimar o sco
     ```
 2. **Navegue até a pasta do projeto:**
     ```bash
-    cd <Python_Projects>/credit-scoring-prediction/README (Para acesso ao README)
+    cd <Python_Projects>/credit-scoring-prediction
+    python credit_scoring_prediction.py
     cd <Python_Projects>/credit-scoring-prediction/credit-scoring-prediction-code.py (Para acesso ao código Python)
     ```
 3. **Instale as dependências:**
