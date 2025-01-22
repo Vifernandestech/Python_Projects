@@ -69,13 +69,15 @@ O objetivo deste projeto é explorar um conjunto de dados de clientes de uma emp
     ```bash
     pip install pandas plotly nbformat ipykernel
     ```
+    #NOTA-SE que, para meios de praticidade, o código dentro deste repositório está no formato .py - 
+    #CASO deseje resultado excelente, mude a extensão para .ipynb e aproveite.
 4. **Abra o notebook `customer-churn-analysis-code.ipynb` no Jupyter Notebook ou VS Code:**
     ```bash
     jupyter notebook customer-churn-analysis-code.ipynb
     ```
     ou
     ```bash
-   code customer_churn_analysis.ipynb
+   code customer-churn-analysis-code.ipynb
     ```
 5. **Execute as células do notebook sequencialmente.**
 
